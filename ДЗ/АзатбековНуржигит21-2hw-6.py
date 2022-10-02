@@ -1,6 +1,6 @@
 
 import re
-data = open('MOCK_DATA.txt', 'r')
+data = open('mock_data.txt', 'r')
 content = data.read()
 data.close()
 while True:
